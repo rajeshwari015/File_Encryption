@@ -2,7 +2,7 @@
 * This is a Python script that demonstrates file encryption and decryption using the AES algorithm from the cryptography library.
 
 ## Prerequisites
-* Python 3.x installed on your system.
+* Python 3.0 installed on your system.
 * The cryptography library installed. You can install it using the following command:
 
 ``` pip install cryptography```
