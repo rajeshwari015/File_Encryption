@@ -1,4 +1,4 @@
-### File Encryption with AES Algorithm
+# File Encryption with AES Algorithm
 * This is a Python script that demonstrates file encryption and decryption using the AES algorithm from the cryptography library.
 
 ## Prerequisites
@@ -18,4 +18,4 @@ Run the script by executing the following command in your terminal:
  * The encrypted file will be decrypted using the provided password, and the decrypted data will be saved in a file named decrypted.txt.
  * The decrypted content will be displayed in the terminal.
 
-# Note: Ensure that you remember the password used for encryption. Without the correct password, decryption will not be possible.
+### Note: Ensure that you remember the password used for encryption. Without the correct password, decryption will not be possible.
